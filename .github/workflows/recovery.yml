@@ -16,9 +16,9 @@ on:
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
   MANIFEST_BRANCH: fox_9.0
-  DEVICE: rosy
-  DT_LINK: https://github.com/ElytrA8/recovery_rosy
-  DT_PATH: device/xiaomi/rosy
+  DEVICE: X5516B
+  DT_LINK: https://github.com/carlodeeCrypton/custom_recovery_tree_X5516B
+  DT_PATH: device/Infinix/X5516B
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
