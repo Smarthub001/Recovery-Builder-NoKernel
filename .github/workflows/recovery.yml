@@ -18,7 +18,7 @@ env:
   MANIFEST_BRANCH: fox_9.0
   DEVICE: rosy
   DT_LINK: https://github.com/ElytrA8/recovery_rosy
-  DT_PATH: device/xiaomi/rosy
+  DT_PATH: device/Infinix/rosy
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
